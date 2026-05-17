@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=https://cloud.dqops.com/dqo-yaml-schema/LocalSettingsYaml-schema.json
+apiVersion: dqo/v1
+kind: settings
+spec:
+  instance_signature_key: u5kXVfmEu3fl3AyMJ+sq3h0FzqNDG6Mu0uEtVRN0mAc=
