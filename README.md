@@ -18,7 +18,7 @@
 *   **Статус:** Ограничение из-за лицензионной политики (API Key). Контроль качества данных перенесен на уровень PSI в Grafana.
 
 ##  5. Архитектура (Kappa)
-*   **Поток:** Video Source → Kafka → ML Service → ClickHouse.
+*   **Поток:** Video Source -> Kafka -> ML Service -> ClickHouse.
 *   **Автоматизация:** При PSI > 0.2 триггерится пайплайн переобучения в SageMaker.
 
 ---
